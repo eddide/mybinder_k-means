@@ -70,6 +70,3 @@ Es sollten ähnliche Ergebnisse wie diese angezeigt werden:
 - accuracy: 78%
 - reall: 35 und 94%
 - f1-score: 46 und 86 %
-
-Das Modell liegt mit 94% bei der vorhersage richtig, dass ein eine Universität öffentlich ist.
-Bei der Vorhersage einer privaten Hochschule liegt das Modell nur zu 35% richtig und ist damit nicht gut geeignet.
