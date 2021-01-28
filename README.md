@@ -67,9 +67,9 @@ Anwendung des K Means Clustering
 ### Evaluation der Vorhersage
 Evaluierung über den classification report.
 Es sollten ähnliche Ergebnisse wie diese angezeigt werden:
-- accuracy: 22%
-- reall: 65 und 6%
-- f1-score: 31 und 10 %
+- accuracy: 78%
+- reall: 35 und 94%
+- f1-score: 46 und 86 %
 
-Das Modell liegt mit 65% bei der vorhersage richtig, dass ein eine Universität öffentlich ist.
-Bei der Vorhersage einer privaten Hochschule liegt das Modell nur zu 6% richtig und ist damit nicht gut geeignet.
+Das Modell liegt mit 94% bei der vorhersage richtig, dass ein eine Universität öffentlich ist.
+Bei der Vorhersage einer privaten Hochschule liegt das Modell nur zu 35% richtig und ist damit nicht gut geeignet.
